@@ -31,20 +31,20 @@ First run **npm install** in command prompt / terminal
 
 run **npm start** to start the app
 
-## How to use this app
+## How To Use This App
 
 Click the location markers on the map to see the golf course image retrieved from Foursquare API and its location
 
 Or use the search box to type the golf course name and see location on the map
 
-## Technology used
+## Technology Used
 
 * React
 * React-debounce-input / https://www.npmjs.com/package/react-debounce-input
 * Google Maps API
 * Foursquare API
 
-## Thank you
+## Thank You
 
 # Udacity 
 
