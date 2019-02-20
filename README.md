@@ -25,11 +25,11 @@ A single-page application featuring a map of my neighborhood in Los Angeles. Map
 
 ## Running the Project
 
-Download compressed project folder or clone the repo, **git clone https://github.com/Igor333m/neighborhoodmap.git**
+Download compressed project folder or clone the repo, `git clone https://github.com/Igor333m/neighborhoodmap.git`
 
-First run **npm install** in command prompt / terminal
+First run `npm install` in command prompt / terminal
 
-run **npm start** to start the app
+Then run `npm start` to start the app
 
 ## How To Use This App
 
@@ -46,6 +46,6 @@ Or use the search box to type the golf course name and see location on the map
 
 ## Thank You
 
-# Udacity 
+## Udacity 
 
 For this amazing experience
