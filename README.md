@@ -10,9 +10,9 @@
 * [Technology used](#technology-used)
 * [Thank you](#thank-you)
 
-## App Link
+## Live deployment
 
-https://golfneighborhoodmap.herokuapp.com/
+https://itodorovic.com/golfneighborhoodmap/
 
 ## App Preview
 
